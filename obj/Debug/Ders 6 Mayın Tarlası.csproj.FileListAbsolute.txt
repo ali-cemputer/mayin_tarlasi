@@ -1,0 +1,10 @@
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\bin\Debug\Ders 6 Mayın Tarlası.exe.config
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\bin\Debug\Ders 6 Mayın Tarlası.exe
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\bin\Debug\Ders 6 Mayın Tarlası.pdb
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders 6 Mayın Tarlası.csproj.AssemblyReference.cache
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders_6_Mayın_Tarlası.Form1.resources
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders_6_Mayın_Tarlası.Properties.Resources.resources
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders 6 Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders 6 Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders 6 Mayın Tarlası.exe
+C:\Users\alcmd\Downloads\yazılım\C# YazOkulu\Ders 6 Mayın Tarlası\Ders 6 Mayın Tarlası\obj\Debug\Ders 6 Mayın Tarlası.pdb
